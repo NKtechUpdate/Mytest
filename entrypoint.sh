@@ -1,3 +1,5 @@
+chmod +x entrypoint.sh
+
 #!/bin/sh -l
 
 echo "Hello $1"
